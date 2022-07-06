@@ -9,7 +9,7 @@ interface ShortToByteFunction {
 }
 
 
-public class Java8FuncIFaces {
+public class UseStandardFunctionalIFaces_44 {
     public static void main(String[] args) {
         short[] array = {(short) 1, (short) 2, (short) 3};
         byte[] tformed = transformArray(array, s -> (byte) (s*2));

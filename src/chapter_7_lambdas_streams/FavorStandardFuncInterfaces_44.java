@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Function;
 
-public class FavorStandardFuncInterfaces_46 {
+public class FavorStandardFuncInterfaces_44 {
 }
 
 // Unnecessary functional interface; use a standard one instead
