@@ -29,7 +29,7 @@ import static java.util.stream.Collectors.groupingBy;
  *
  * - streams API is fluent (allows chaining into a single expression)
  */
-public class UseStreamJudiciously {
+public class UseStreamJudiciously_45 {
 }
 
 // Prints all large anagram groups in a dictionary iteratively

@@ -8,7 +8,7 @@ import java.util.function.DoubleBinaryOperator;
 
 import static java.util.Comparator.comparingInt;
 
-public class PreferLambdasToAnonClasses {
+public class PreferLambdasToAnonClasses_42 {
 
     public static void main(String[] args) {
         List<String> words = new ArrayList<>();
